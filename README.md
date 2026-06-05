@@ -27,7 +27,7 @@ cp .env.example .env
 # Отредактируйте .env под ваши настройки
 ```
 
-### 2. Запуск через Docker (рекомендуется)
+### 2. Запуск через Docker Compose (рекомендуется)
 
 ```bash
 docker-compose up --build
